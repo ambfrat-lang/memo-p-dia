@@ -1,0 +1,30 @@
+{
+ "name": "Mémo Pédia",
+ "short_name": "Mémo Pédia",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#f8f5f1",
+ "theme_color": "#ffffff",
+ "lang": "fr",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
